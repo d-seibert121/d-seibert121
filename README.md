@@ -1,4 +1,3 @@
 - Hi, I’m @d-seibert121, an freshly minted Software Engineer 
-- I’m interested in mathematics, particularly topics such as group theory, graph theory, and 
-- I’m currently working at Ladder Life, getting familiar with Clojure and many other new-to-me technologies 
+- I’m interested in mathematics, particularly topics such as group theory, graph theory, and linear algebra
 - You can reach me via email at my handle here (with an underscore instead of a dash) at gmail.com
